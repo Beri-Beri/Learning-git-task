@@ -9,3 +9,6 @@ for shop, product in cap_shopping_list.items():
 
 product_no = sum([len(shopping_list[product]) for product in shopping_list if isinstance(shopping_list[product], list)])
 print(f"W sumie kupuję {product_no} produktów")
+
+divided = [i for i in range(101) if i % 5 == 0]
+print(divided)
