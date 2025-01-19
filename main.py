@@ -12,3 +12,6 @@ print(f"W sumie kupuję {product_no} produktów")
 
 divided = [i for i in range(101) if i % 5 == 0]
 print(divided)
+
+cubes = [num**3 for num in divided]
+print(cubes)
