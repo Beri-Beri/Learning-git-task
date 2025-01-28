@@ -15,3 +15,5 @@ print(divided)
 
 cubes = [num**3 for num in divided]
 print(cubes)
+
+print("Many people ask me the same question: But how do you do it? Where do you get that joy from? And I answer that it is simple—it is a love for life. It is exactly that which makes me, for example, learn data analysis today, and tomorrow... who knows, why not dedicate myself to community work and, say, plant... well... carrots. Greetings for my mentor")
